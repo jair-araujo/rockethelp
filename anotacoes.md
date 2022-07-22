@@ -22,13 +22,14 @@ export function SignIn() {
 
 ## Tecnologias utilizadas e aprendizados
 
-- React Native
-- Native Base
-- React Navigation
-- Phosphor React Native (Biblioteca de icones)
-- Expo
-- Expo Bare Workflow
-- React Native Firebase
-- Fontes personalizadas (Validação do carregamento dessas fontes)
+- React Native.
+- React (useState, useEffect).
+- Native Base.
+- Expo (Expo Bare Workflow).
+- React Navigation.
+- Phosphor React Native (Biblioteca de icones).
+- React Native Firebase (Inserção de dados e recuperação de dados).
+- Autenticação com email e senha utilizando o Firebase.
+- Fontes personalizadas (Validação do carregamento dessas fontes).
 - Criação de componentes personalizados, passando parametros para eles.
-- Filtros personalizados
+- Filtros personalizados.
